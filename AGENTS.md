@@ -1,6 +1,6 @@
 # Development Plan for Spotify to Apple Music Playlist Transfer Website
 
-This repository will host a small web service that allows users to move playlists from Spotify to Apple Music. Below is a high-level outline of how the project can be structured.
+This repository will host a small web service that allows users to move liked/followed artists, songs, playlists from Spotify to Apple Music. Below is a high-level outline of how the project can be structured. Maybe something like github between liked artists between two?
 
 ## Backend
 - **Language:** Python 3

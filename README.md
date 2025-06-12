@@ -1,1 +1,1 @@
-This is a website for Spotify to Apple Music subscription transfer.
+This is a website for Spotify to Apple Music playlist transfer.
